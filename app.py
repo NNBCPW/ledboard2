@@ -910,4 +910,3 @@ focusInput();
 components.html(html_code, height=760, scrolling=False)
 st.markdown("<hr style='margin:8px 0;'>", unsafe_allow_html=True)
 st.markdown("<div style='margin-top:2px; color:#aaa;'>Created by NN.</div>", unsafe_allow_html=True)
-```
